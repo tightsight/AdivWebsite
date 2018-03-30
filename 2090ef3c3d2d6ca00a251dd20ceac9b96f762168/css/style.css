@@ -2297,7 +2297,7 @@ a:focus {
 }
 
 .wedding-couple-section .details .signature:before {
-  content: "";
+  /*content: "";*/
   background-color: #000;
   width: 15px;
   height: 1px;
